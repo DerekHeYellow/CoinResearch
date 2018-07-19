@@ -1,3 +1,6 @@
+#So this was basically a test to create a table of percent discrepancies in price information between CoinAPI and CoinMarketCap API
+#We ended up finding about 32.5% of coins had a discrepancy over 10%
+
 import os
 import sys
 import json
